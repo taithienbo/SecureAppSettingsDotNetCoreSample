@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureAppSettingsSample", "SecureAppSettingsSample.csproj", "{E8992395-43D0-40C6-B638-F1F0C16BAB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8992395-43D0-40C6-B638-F1F0C16BAB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8992395-43D0-40C6-B638-F1F0C16BAB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8992395-43D0-40C6-B638-F1F0C16BAB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8992395-43D0-40C6-B638-F1F0C16BAB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
